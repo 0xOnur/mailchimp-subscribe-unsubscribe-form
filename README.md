@@ -8,11 +8,8 @@
 ---
 
 ### :scroll: Required Download Libraries  :
-  * npm install express
-  * npm install body-parser
-  * npm install crypto-js
-  * npm install @mailchimp/mailchimp_marketing
-  
+The list of required packages is in package.json.
+  * npm install
 
 ---
 
